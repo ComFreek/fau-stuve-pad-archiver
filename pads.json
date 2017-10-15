@@ -1,0 +1,56 @@
+{
+	"pads": [
+		{
+			"name": "gti-altklausuren_l%c3%b6sungsversuch",
+			"preferredName": "GTI"
+		},
+		{
+			"name": "bfs_klausuren",
+			"preferredName": "BFS"
+		},
+		{
+			"name": "odp3xlqgkb",
+			"preferredName": "GLoIn"
+		},
+		{
+			"name": "sp_miniklausuren",
+			"preferredName": "SP-Miniklausuren"
+		},
+		{
+			"name": "6g8c0gcpte",
+			"preferredName": "SP1"
+		},
+		{
+			"name": "sp%3eaud",
+			"preferredName": "SP2"
+		},
+		{
+			"name": "ojuhmjmymt",
+			"preferredName": "SoSy"
+		},
+		{
+			"name": "gra-altklausuren_l%c3%b6sungsversuch",
+			"preferredName": "GRa"
+		},
+		{
+			"name": "grundlagen_der_rechnerarchitektur",
+			"preferredName": "GRa-Übungen"
+		},
+		"ThProg",
+		"RK",
+		"idb1516",
+		{
+			"name": "thprog_braindump_ss17",
+			"preferredName": "ThProg SS 17 Braindump"
+		}
+	],
+	"baseUri": "https://pad.stuve.fau.de/p/",
+	"outputDir": "backup",
+	"formats": [
+		"etherpad",
+		"latex",
+		"html",
+		"txt",
+		"markdown"
+	]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "pad-archiver",
+  "version": "1.0.0",
+  "description": "Downloads complete FAU StuvePads for backup purposes. The pads can be specified in a configuration file.",
+  "main": "archive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navid Roux <navid.roux@fau.de>",
+  "license": "ISC",
+	"private": true,
+  "dependencies": {
+    "dateformat": "^3.0.2",
+    "download": "^6.2.5",
+    "mkpath": "^1.0.0",
+    "mz": "^2.7.0",
+    "promise-limit": "^2.5.0",
+    "request": "^2.83.0"
+  }
+}
