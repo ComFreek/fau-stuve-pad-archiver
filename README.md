@@ -4,7 +4,7 @@ Downloads complete FAU StuvePads for backup purposes. The pads can be specified 
 
 ## How to use
 
-1. `git clone ...`.
+1. `git clone ...`
 2. `npm install`
 3. `node archive.js`
 
@@ -70,4 +70,4 @@ PadArchiver
 Navid Roux
 
 ## License
-ISC
+© Copyright 2017 Navid Roux. ISC license, see `LICENSE`.
