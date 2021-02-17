@@ -10,11 +10,11 @@
   "license": "ISC",
 	"private": true,
   "dependencies": {
-    "dateformat": "^3.0.2",
-    "download": "^6.2.5",
-    "mkpath": "^1.0.0",
-    "mz": "^2.7.0",
-    "promise-limit": "^2.5.0",
-    "request": "^2.83.0"
+    "dateformat": "3.0.2",
+    "download": "6.2.5",
+    "mkpath": "1.0.0",
+    "mz": "2.7.0",
+    "promise-limit": "2.5.0",
+    "request": "2.83.0"
   }
 }
